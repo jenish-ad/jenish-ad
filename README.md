@@ -1,4 +1,4 @@
-<h1 align="center">Jenish Adhikari</h1>
+<h1 align="center">Hey, I’m Jenish Adhikari 🌱</h1>
 
 <p align="center">
   Computer Engineering student focused on full-stack development, AI systems, and practical software engineering.
