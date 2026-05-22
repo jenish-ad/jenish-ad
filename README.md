@@ -27,11 +27,3 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jenish-ad&theme=merko&hide_border=false" />
-</p>
