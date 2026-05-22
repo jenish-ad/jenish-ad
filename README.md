@@ -7,5 +7,5 @@
 <h3 align="center">Languages, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,react,nextjs,django,fastapi,postgres,mysql,mongodb,tensorflow,pytorch,opencv,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,django,fastapi,postgres,mysql,mongodb,tensorflow,pytorch,opencv,git,github&theme=dark" />
 </p>
