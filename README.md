@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey, I’m Jenish Adhikari 🌱</h1>
 
 <p align="center">
@@ -14,7 +15,8 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,python,django,fastapi,postgres,mongodb,tensorflow,pytorch,opencv&theme=dark" 
+    src="https://skillicons.dev/icons?i=ts,nodejs,express,python,fastapi,django,postgres,mongodb,react,nextjs,tailwind,tensorflow,pytorch,opencv&theme=dark" 
     alt="Tech Stack"
   />
 </p>
+
