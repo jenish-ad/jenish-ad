@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I’m Jenish Adhikari 🌱</h1>
 
-  <p align="center">
+<p align="center">
   Computer Engineering student building full-stack web products and AI systems.
 </p>
 
@@ -10,11 +10,11 @@
   &nbsp;•&nbsp;
 </p>
 
-<h3 align="center">Languages, Frameworks & Tools</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,django,fastapi,postgres,mysql,mongodb,tensorflow,pytorch,opencv,git,github&theme=dark" 
-    alt="Languages, Frameworks and Tools"
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,python,django,fastapi,postgres,mongodb,tensorflow,pytorch,opencv&theme=dark" 
+    alt="Tech Stack"
   />
 </p>
