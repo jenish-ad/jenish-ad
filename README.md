@@ -15,7 +15,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=ts,nodejs,express,python,django,postgres,react,nextjs,tailwind,tensorflow,pytorch,opencv&theme=dark" 
+    src="https://skillicons.dev/icons?i=ts,nodejs,express,python,django,fastapi,postgres,react,nextjs,tailwind,tensorflow,pytorch,opencv&theme=dark" 
     alt="Tech Stack"
   />
 </p>
